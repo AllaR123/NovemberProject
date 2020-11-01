@@ -7,6 +7,6 @@ public class Batman {
 
         // Batman has cool Bat mobile
 
-        //BAtman has cool motocicle
+        //BAtman has cool bike
     }
 }
